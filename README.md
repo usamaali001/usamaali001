@@ -1,20 +1,20 @@
-<h1 align="center">Hi, I'm Usama Ali</h1>
-
-<h3 align="center">
-  Software Engineer building AI-powered web and mobile products
-</h3>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Flutter+%7C+Dart+%7C+Firebase;AI-powered+apps+for+real-world+products;Building+fast%2C+clean%2C+production-ready+interfaces)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B46,100:00D9FF&height=210&section=header&text=Usama%20Ali&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI-Powered%20Apps&descAlignY=55&descSize=17" />
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usama%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usamaali001)
-[![GitHub](https://img.shields.io/badge/GitHub-usamaali001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usamaali001)
-[![Email](https://img.shields.io/badge/Email-usamaali.malik095%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamaali.malik095@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Flutter+%7C+Dart+%7C+Firebase;Building+clean+web+and+mobile+experiences;Creating+practical+AI-powered+products)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/usamaali001)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/usamaali001)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:usamaali.malik095@gmail.com)
 
 </div>
 
@@ -56,28 +56,32 @@ const usama = {
 
 ## Tech Stack
 
+<div align="center">
+
 ### Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00D9FF)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00D9FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00D9FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00D9FF)
 
 ### Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00D9FF)
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=00D9FF)
 
 ### Backend, AI, and Tools
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00D9FF)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00D9FF)
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00D9FF)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00D9FF)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00D9FF)
+
+</div>
 
 ---
 
@@ -103,7 +107,17 @@ const usama = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=usamaali001&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=usamaali001&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usamaali001&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -113,9 +127,9 @@ const usama = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usamaali001)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usamaali001)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamaali.malik095@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/usamaali001)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/usamaali001)
+[![Email](https://img.shields.io/badge/Say_Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:usamaali.malik095@gmail.com)
 
 </div>
 
@@ -123,6 +137,6 @@ const usama = {
 
 <div align="center">
 
-**Building useful software with clean interfaces, reliable code, and practical AI.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:003B46,100:0D1117&height=120&section=footer" />
 
 </div>
