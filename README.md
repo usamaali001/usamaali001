@@ -3,7 +3,6 @@
 <!-- Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Usama+Ali+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Dev;Building+AI-Powered+Apps;Next.js+%7C+Flutter+%7C+TailwindCSS)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=usamaali001&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
