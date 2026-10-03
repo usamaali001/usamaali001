@@ -1,72 +1,79 @@
-<div align="center">
+# Usama Ali
+### Software Engineer · Web & Mobile Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B46,100:00D9FF&height=210&section=header&text=Usama%20Ali&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Web%20%26%20Mobile%20Developer&descAlignY=55&descSize=17" />
+I build useful digital products, from responsive web experiences to mobile apps.
+Currently working on restaurant and food delivery technology at **[CraveUp](https://github.com/craveup)**, and exploring practical ways to bring AI into products.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+web+and+mobile+products;Working+on+restaurant+tech+at+CraveUp;Exploring+practical+AI+experiences)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/usamaali001)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/usamaali001)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:usamaali.malik095@gmail.com)
-
-</div>
+[LinkedIn](https://linkedin.com/in/usamaali001) ·
+[GitHub](https://github.com/usamaali001) ·
+[Email](mailto:usamaali.malik095@gmail.com)
 
 ---
 
-## 👋 About Me
+## A little about me
 
-I’m **Usama Ali**, a software engineer building web and mobile products.
+I’m a software engineer who enjoys turning ideas into polished, working products. My work spans frontend development, mobile apps, and product features that connect the experience users see with the systems behind it.
 
-At **[CraveUp](https://github.com/craveup)**, I work on restaurant and food delivery technology. I build web experiences with **Next.js**, **TypeScript**, and **Tailwind CSS**, and mobile apps with **Flutter** and **Dart**.
+At **CraveUp**, I contribute to restaurant and food delivery technology. Outside that work, I’ve built projects across AI-assisted writing, ecommerce, travel, and mobile ordering.
 
-I’m interested in practical AI features that make products and workflows more useful.
+I care about interfaces that feel clear and considered, code that’s practical to maintain, and features that solve a real problem.
 
-## 🚀 Selected Work
+## What I work on
 
-| Project | Description | Stack |
-|---|---|---|
-| [AI Writing Assistant](https://github.com/usamaali001/AI-Writing-Assistant) | AI-powered writing and content generation | Next.js · TypeScript · AI |
-| [Shoply](https://github.com/usamaali001/shoply_e-com_website) | Ecommerce storefront experience | Next.js · TypeScript · Tailwind CSS |
-| [Food Delivery App](https://github.com/usamaali001/food_delivery_app) | Mobile food ordering app | Flutter · Dart |
-| [Travel Landing Page](https://github.com/usamaali001/travel-landing-page) | Responsive travel website | Next.js · TypeScript · Tailwind CSS |
-| [Car App](https://github.com/usamaali001/car-app) | Vehicle-focused web experience | Next.js · TypeScript |
+| Area | What I build |
+|---|---|
+| **Web** | Responsive sites and product interfaces with Next.js and React |
+| **Mobile** | Cross-platform apps with Flutter and Dart |
+| **AI features** | Product experiences that use AI for practical tasks |
+| **Product UI** | Ecommerce, restaurant, landing page, and dashboard experiences |
 
-## 🧰 Tech I Use
+## Selected projects
 
-<div align="center">
+### [AI Writing Assistant](https://github.com/usamaali001/AI-Writing-Assistant)
+An AI-powered tool for writing and content generation.  
+`Next.js` · `TypeScript` · `AI`
 
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00D9FF)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00D9FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF)
+### [Shoply](https://github.com/usamaali001/shoply_e-com_website)
+An ecommerce storefront focused on a clean shopping experience.  
+`Next.js` · `TypeScript` · `Tailwind CSS`
 
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00D9FF)
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=00D9FF)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00D9FF)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00D9FF)
+### [Food Delivery App](https://github.com/usamaali001/food_delivery_app)
+A mobile food ordering app built with Flutter.  
+`Flutter` · `Dart`
 
-</div>
+### [Travel Landing Page](https://github.com/usamaali001/travel-landing-page)
+A responsive landing page for a travel experience.  
+`Next.js` · `TypeScript` · `Tailwind CSS`
 
-## 📊 GitHub
+### [Car App](https://github.com/usamaali001/car-app)
+A vehicle-focused web interface.  
+`Next.js` · `TypeScript`
 
-<div align="center">
+## My toolkit
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=usamaali001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaali001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+**Web development**  
+Next.js · React · TypeScript · JavaScript · Tailwind CSS · HTML
 
-</div>
+**Mobile development**  
+Flutter · Dart
 
-<div align="center">
+**Backend and AI**  
+Node.js · Firebase · OpenAI
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=usamaali001&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E)](https://git.io/streak-stats)
+**Tools**  
+Git · GitHub · Figma · Vercel
 
-</div>
+## How I like to work
 
----
+- Start with the user problem and keep the experience easy to understand.
+- Build responsive interfaces that work across screen sizes.
+- Choose tools that fit the product and keep the code maintainable.
+- Use AI where it adds practical value to the experience.
+- Keep learning by building and refining real projects.
 
-<div align="center">
+## Let’s connect
 
-*Building useful things for the web, mobile, and beyond.*
+I’m always happy to meet people building thoughtful web and mobile products, exchange ideas, or explore useful applications of AI.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:003B46,100:0D1117&height=110&section=footer" />
-
-</div>
+[Connect on LinkedIn](https://linkedin.com/in/usamaali001) ·
+[Send me an email](mailto:usamaali.malik095@gmail.com)
