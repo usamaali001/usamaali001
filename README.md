@@ -1,79 +1,96 @@
-# Usama Ali
-### Software Engineer · Web & Mobile Developer
+<h1 align="center">Usama Ali</h1>
 
-I build useful digital products, from responsive web experiences to mobile apps.
-Currently working on restaurant and food delivery technology at **[CraveUp](https://github.com/craveup)**, and exploring practical ways to bring AI into products.
+<p align="center">
+  <strong>Software Engineer · Web & Mobile Developer</strong>
+</p>
 
-[LinkedIn](https://linkedin.com/in/usamaali001) ·
-[GitHub](https://github.com/usamaali001) ·
-[Email](mailto:usamaali.malik095@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+web+experiences+with+Next.js;Creating+mobile+apps+with+Flutter;Working+on+restaurant+tech+at+CraveUp;Exploring+useful+AI-powered+products" alt="Animated introduction" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/usamaali001">LinkedIn</a> &nbsp;✦&nbsp;
+  <a href="mailto:usamaali.malik095@gmail.com">Email</a> &nbsp;✦&nbsp;
+  <a href="https://github.com/usamaali001">GitHub</a>
+</p>
 
 ---
 
-## A little about me
+### ✳ About me
 
-I’m a software engineer who enjoys turning ideas into polished, working products. My work spans frontend development, mobile apps, and product features that connect the experience users see with the systems behind it.
+I’m a software engineer who enjoys turning ideas into clear, useful digital products. My work spans responsive web experiences, cross-platform mobile apps, and practical AI features.
 
-At **CraveUp**, I contribute to restaurant and food delivery technology. Outside that work, I’ve built projects across AI-assisted writing, ecommerce, travel, and mobile ordering.
+I currently work at **[CraveUp](https://github.com/craveup)**, building in the restaurant and food delivery space. I like working across the product experience—from shaping an interface to bringing it to life in code.
 
-I care about interfaces that feel clear and considered, code that’s practical to maintain, and features that solve a real problem.
+> **My focus:** useful features, thoughtful interfaces, and products that feel good to use.
 
-## What I work on
+---
 
-| Area | What I build |
-|---|---|
-| **Web** | Responsive sites and product interfaces with Next.js and React |
-| **Mobile** | Cross-platform apps with Flutter and Dart |
-| **AI features** | Product experiences that use AI for practical tasks |
-| **Product UI** | Ecommerce, restaurant, landing page, and dashboard experiences |
+### 🧭 What I build
 
-## Selected projects
+| 01 · Web | 02 · Mobile | 03 · AI |
+|:---|:---|:---|
+| Product sites, storefronts, and responsive interfaces | Cross-platform apps and mobile ordering experiences | Practical product features for writing and everyday workflows |
+| Next.js · React · TypeScript | Flutter · Dart | OpenAI · Node.js |
 
-### [AI Writing Assistant](https://github.com/usamaali001/AI-Writing-Assistant)
-An AI-powered tool for writing and content generation.  
-`Next.js` · `TypeScript` · `AI`
+---
 
-### [Shoply](https://github.com/usamaali001/shoply_e-com_website)
-An ecommerce storefront focused on a clean shopping experience.  
-`Next.js` · `TypeScript` · `Tailwind CSS`
+### ✨ Selected work
 
-### [Food Delivery App](https://github.com/usamaali001/food_delivery_app)
+#### [AI Writing Assistant](https://github.com/usamaali001/AI-Writing-Assistant)
+A writing and content generation experience powered by AI.  
+`Next.js` &nbsp; `TypeScript` &nbsp; `AI`
+
+#### [Shoply](https://github.com/usamaali001/shoply_e-com_website)
+An ecommerce storefront built around a clean shopping experience.  
+`Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS`
+
+#### [Food Delivery App](https://github.com/usamaali001/food_delivery_app)
 A mobile food ordering app built with Flutter.  
-`Flutter` · `Dart`
+`Flutter` &nbsp; `Dart`
 
-### [Travel Landing Page](https://github.com/usamaali001/travel-landing-page)
+#### [Travel Landing Page](https://github.com/usamaali001/travel-landing-page)
 A responsive landing page for a travel experience.  
-`Next.js` · `TypeScript` · `Tailwind CSS`
+`Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS`
 
-### [Car App](https://github.com/usamaali001/car-app)
-A vehicle-focused web interface.  
-`Next.js` · `TypeScript`
+#### [Car App](https://github.com/usamaali001/car-app)
+A vehicle-focused web experience.  
+`Next.js` &nbsp; `TypeScript`
 
-## My toolkit
+---
 
-**Web development**  
-Next.js · React · TypeScript · JavaScript · Tailwind CSS · HTML
+### 🛠 My toolkit
 
-**Mobile development**  
-Flutter · Dart
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-087E8B?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F766E?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-2563EB?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0E7490?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-F59E0B?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/OpenAI-374151?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
 
-**Backend and AI**  
-Node.js · Firebase · OpenAI
+**Also:** JavaScript · Node.js · Git · GitHub · Figma · Vercel
 
-**Tools**  
-Git · GitHub · Figma · Vercel
+---
 
-## How I like to work
+### 🌱 What I value in a project
 
-- Start with the user problem and keep the experience easy to understand.
-- Build responsive interfaces that work across screen sizes.
-- Choose tools that fit the product and keep the code maintainable.
-- Use AI where it adds practical value to the experience.
-- Keep learning by building and refining real projects.
+- A clear problem and a useful outcome
+- Interfaces that are responsive and easy to understand
+- Maintainable code and tools chosen for the job
+- AI features that improve the product experience
+- A steady cycle of building, learning, and refining
 
-## Let’s connect
+---
 
-I’m always happy to meet people building thoughtful web and mobile products, exchange ideas, or explore useful applications of AI.
+### 🤝 Let’s connect
 
-[Connect on LinkedIn](https://linkedin.com/in/usamaali001) ·
-[Send me an email](mailto:usamaali.malik095@gmail.com)
+Have an interesting product idea or building something in web, mobile, or AI?  
+[Find me on LinkedIn](https://linkedin.com/in/usamaali001) or [send me an email](mailto:usamaali.malik095@gmail.com).
+
+<p align="center">
+  <sub>Designed with curiosity · Built with care</sub>
+</p>
